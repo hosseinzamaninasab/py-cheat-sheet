@@ -1,6 +1,5 @@
 # py-cheat-sheet
-Python cheat sheet from any source i saw, which include persian source or another
-I will put practices with solve hyperlink below,
+Python cheat sheet from any source i saw, which include persian source or another, i will put practices with solve hyperlink below,
 Hope you learn something not just copy and paste..!
 
 
